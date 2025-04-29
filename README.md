@@ -13,3 +13,5 @@
 <h3>Elementos Visuais:</h3>
 
 <p>Os ícones ultilizados foram: Cursor e uma imagem PNG de gato.</p>
+<img src="./src/img/cat.png"/>
+<img src="./src/img/icoon.png">
