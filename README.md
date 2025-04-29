@@ -5,3 +5,11 @@
 
 * Azul Escuro: #162364 Que traz um destaque a imagem e ao texto e subtexto.
 * Preto: #030612 Destacando as letras trazendo estabilidade.
+
+<h3>Tipografia:</h3>
+
+*Fonte principal e segundária: Opens Sans estilosa e prática usada no Titulo.
+
+<h3>Elementos Visuais:</h3>
+
+*Os ícones ultilizados foram: Cursor e uma imagem PNG de gato.
