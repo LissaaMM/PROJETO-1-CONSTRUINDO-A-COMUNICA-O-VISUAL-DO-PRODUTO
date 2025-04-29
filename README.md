@@ -8,8 +8,8 @@
 
 <h3>Tipografia:</h3>
 
-*Fonte principal e segundária: Opens Sans estilosa e prática usada no Titulo. *
+<p>Fonte principal e segundária: Opens Sans estilosa e prática usada no Titulo.</p>
 
 <h3>Elementos Visuais:</h3>
 
-*Os ícones ultilizados foram: Cursor e uma imagem PNG de gato. *
+<p>Os ícones ultilizados foram: Cursor e uma imagem PNG de gato.</p>
