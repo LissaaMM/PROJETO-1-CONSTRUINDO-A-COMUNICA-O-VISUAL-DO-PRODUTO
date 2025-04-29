@@ -14,4 +14,4 @@
 
 <p>Os ícones ultilizados foram: Cursor e uma imagem PNG de gato.</p>
 <img src="./src/img/cat.jfif"/>
-<img src="./src/img/icoon.jfif">
+<img src="./src/img/icoon.jfif"/>
